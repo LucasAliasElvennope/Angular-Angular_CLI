@@ -13,4 +13,18 @@ Il sert à créer des applications web modernes (rapides, dynamiques, organisée
 
 - Structurer proprement le code pour des projets complexes
 
+## Angular CLI
+
+Angular CLI (Command Line Interface) est un outil en ligne de commande.
+Il aide à créer, configurer et gérer une appli Angular plus facilement.
+
+🔧 Il permet de :
+
+Créer un nouveau projet Angular (ng new)
+
+- Générer des composants, services, etc. (ng generate)
+
+- Lancer le serveur local (ng serve)
+
+- Construire le projet pour la production (ng build)
 
